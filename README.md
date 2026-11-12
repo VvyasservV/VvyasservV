@@ -1,8 +1,8 @@
-## Hi, I'm Yasser 👋
+## Hi, I'm Yasser
 
 Computer Engineering student at **UNAM**, also enrolled in the Data Science degree (IIMAS). I build AI-driven automations, relational databases and computer-vision tools, and I'm looking for a **software or data internship**.
 
-📍 Mexico City · 💼 [LinkedIn](https://www.linkedin.com/in/yasservladimircruzmiranda/)
+Mexico City · [LinkedIn](https://www.linkedin.com/in/yasservladimircruzmiranda/)
 
 ### Featured projects
 
@@ -22,8 +22,10 @@ Computer Engineering student at **UNAM**, also enrolled in the Data Science degr
 
 ### Right now
 
-- ☁️ Studying for **AWS Certified Solutions Architect – Associate** (target: Jan 2027)
-- 📊 Building a members, projects and events dashboard for SAIMEC (UNAM student association)
-- ✋ Hand-tracking module with OpenCV/MediaPipe for a cyborg-hand prototype
+- Studying for **AWS Certified Solutions Architect – Associate** (target: Jan 2027)
+- Building a members, projects and events dashboard for SAIMEC (UNAM student association)
+- Hand-tracking module with OpenCV/MediaPipe for a cyborg-hand prototype
 
-🗣️ Spanish (native) · English (B2, TOEFL iBT 84) · German (A2)
+### Languages
+
+Spanish (native) · English (B2, TOEFL iBT 84) · German (A2)
