@@ -1,6 +1,6 @@
 ## Hi, I'm Yasser
 
-Computer Engineering student at **UNAM**, also enrolled in the Data Science degree (IIMAS). I build AI-driven automations, relational databases and computer-vision tools, and I'm looking for a **software or data internship**.
+Computer Engineering student at **UNAM**, also enrolled in the Data Science degree (IIMAS). I build AI-driven automations, relational databases and computer-vision tools.
 
 Mexico City · [LinkedIn](https://www.linkedin.com/in/yasservladimircruzmiranda/)
 
