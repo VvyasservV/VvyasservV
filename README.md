@@ -8,6 +8,7 @@ Mexico City · [LinkedIn](https://www.linkedin.com/in/yasservladimircruzmiranda/
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**Situational Playbook**](https://github.com/VvyasservV/playbook-de-situacion) | Pass-rush analytics tool I built solo for the NFL Big Data Bowl Hackathon (UNAM 2026): Carolina allows pressure on 59% of 2nd-and-long plays against 4 rushers or fewer vs. 30% league-wide | Python, FastAPI, pandas, React |
 | [**El Buen Retiro DB**](https://github.com/VvyasservV/el-buen-retiro-db) | Insurance company database: 27 tables in 5 schemas, triggers for business rules, stored procedures, role-based security and 17 analytical queries | SQL Server, T-SQL |
 | [**Telegram Multimodal Assistant**](https://github.com/VvyasservV/telegram-multimodal-assistant) | Bot that turns text, voice and images into calendar reminders, expense logs and receipt archives | Make.com, OpenAI API, Google Workspace |
 | [**CompiFlow**](https://github.com/AldoEZ/Compilers-Team3) | C-subset compiler. I designed the 75-production LALR(1) grammar and semantic rules and co-implemented the lexer and parser | Java, JavaFX |
